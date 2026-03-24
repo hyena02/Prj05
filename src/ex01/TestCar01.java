@@ -14,7 +14,7 @@ public class TestCar01 {
 		
 		String name2  ="엄마차";
 		String color2 ="Red";
-		int	   year2  =2023;
+		int	   year2  =2025;
 		
 		System.out.println("차이름:" + name2);
 		System.out.println("색깔:" + color2 );
