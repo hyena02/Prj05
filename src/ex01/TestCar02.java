@@ -32,6 +32,11 @@ public class TestCar02 {
 		car2.color 	= "Red";
 		car2.year	= 2025;
 		car2.info();
+		Car car3  	= new Car();
+		car3.name 	= "내차";
+		car3.color 	= "Pink";
+		car3.year	= 2026;
+		car3.info();
 
 	}
 
